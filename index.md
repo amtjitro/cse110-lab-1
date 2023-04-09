@@ -1,7 +1,7 @@
 # Alessandra's User Page
 
 ## Section Shorcuts
-- [ ] [About Me](#about-me)
+- [x] [About Me](#about-me)
 - [ ] [Education](#education)
 - [ ] [Hobbies](#hobbies)
 - [ ] [Contact Information](#contact-information)
@@ -40,7 +40,7 @@ Here's a photo from when I saw SoFi stadium:
 
 ![SoFi](SoFi.jpg)
 
-I also love going to the gym and cooking new recipes.
+**I also love going to the gym and cooking _new_ recipes.**
 
 
 ## Contact Information
